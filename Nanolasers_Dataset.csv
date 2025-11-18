@@ -1,0 +1,49 @@
+laser_type,cavity_type,material_system,pump_type,wavelength_nm,quality_factor,modal_volume_lambda_cubed,threshold_kW_per_cm2,device_length_um,cavity_size_nm,electrical_drive_possible,estimated_fabrication_hours,room_temp_operation,integration_risk_band
+Photonic Crystal,1D,GaAs,Optical,968.9,114686,1.068,0.234,7,70,0,27.44,0,Low
+Photonic Crystal,2D,PbO glass + dye,Optical,979,127874,1.438,0.376,11,87,0,34.09,0,Low
+Nanowire,Core-Shell,GaAs/AlGaAs,Optical,853.5,48935,2.063,0.242,11,385,0,31.81,0,Low
+Plasmonic,MIS,III-V,Optical,852.2,7672,0.267,2.753,17,85,1,98.64,1,High
+Plasmonic,MIM,II-VI,Optical,819.9,9564,0.309,1.84,29,158,1,78.41,1,High
+Plasmonic,Spaser,Core-Shell,Optical,908.1,8113,0.203,2.249,6,170,1,79.08,1,High
+Plasmonic,Plasmonic Crystal,Metal NP + dye/polymer,Optical,650,7218,0.19,2.703,14,262,1,98.81,0,High
+Polariton,Waveguide FP,ITO/Au gratings + excitons,Electrical,1162.1,20508,0.863,0.111,17,202,1,20.9,1,Low
+Photonic Crystal,1D,GaAs,Optical,989.2,82709,1.823,0.343,20,131,0,41.31,0,Low
+Photonic Crystal,2D,PbO glass + dye,Optical,912.5,87042,1.482,0.191,12,183,0,33.14,0,Low
+Nanowire,Core-Shell,GaAs/AlGaAs,Optical,973,43823,1.904,0.311,7,212,0,26.73,0,Low
+Plasmonic,MIS,III-V,Optical,650,9564,0.422,2.078,24,183,1,85.5,1,High
+Plasmonic,MIM,II-VI,Optical,703.7,7280,0.374,1.88,25,243,1,77.53,1,High
+Plasmonic,Spaser,Core-Shell,Optical,750,9153,0.175,1.03,28,375,1,57.13,1,High
+Plasmonic,Plasmonic Crystal,Metal NP + dye/polymer,Optical,890.8,3946,0.405,1.799,4,138,1,61.26,1,High
+Polariton,Waveguide FP,ITO/Au gratings + excitons,Electrical,978.1,32666,0.978,0.077,11,272,1,16.05,1,Low
+Photonic Crystal,1D,GaAs,Optical,908,139257,1.664,0.434,28,378,0,48.53,0,Low
+Photonic Crystal,2D,PbO glass + dye,Optical,724.2,101965,1.374,0.245,13,72,0,30.3,0,Low
+Nanowire,Core-Shell,GaAs/AlGaAs,Optical,873.4,40865,2.777,0.328,20,185,0,42.4,0,Low
+Plasmonic,MIS,III-V,Optical,743.2,7482,0.479,1.311,2,128,1,51.96,1,High
+Plasmonic,MIM,II-VI,Optical,1012.3,5752,0.393,2.413,9,148,1,86.1,0,High
+Plasmonic,Spaser,Core-Shell,Optical,1063,8533,0.211,2.151,5,198,1,74.18,1,High
+Plasmonic,Plasmonic Crystal,Metal NP + dye/polymer,Optical,932.1,6689,0.204,1.536,13,354,1,63.49,0,High
+Polariton,Waveguide FP,ITO/Au gratings + excitons,Electrical,805.3,15529,1.319,0.064,16,267,1,22.18,0,Low
+Photonic Crystal,1D,GaAs,Optical,974.8,134383,1.824,0.314,18,66,0,37.11,0,Low
+Photonic Crystal,2D,PbO glass + dye,Optical,957.3,120844,1.188,0.395,15,273,0,36.41,0,Low
+Nanowire,Core-Shell,GaAs/AlGaAs,Optical,999.7,78156,2.419,0.708,10,375,0,50.33,0,Low
+Plasmonic,MIS,III-V,Optical,785,11269,0.272,1.015,12,237,1,45.23,0,High
+Plasmonic,MIM,II-VI,Optical,902.8,10049,0.277,2.174,29,307,1,88.34,1,High
+Plasmonic,Spaser,Core-Shell,Optical,990.6,4736,0.237,1.77,24,109,1,76.5,0,High
+Plasmonic,Plasmonic Crystal,Metal NP + dye/polymer,Optical,799.2,6993,0.335,2.199,14,375,1,84.99,1,High
+Polariton,Waveguide FP,ITO/Au gratings + excitons,Electrical,1062.3,35437,1.124,0.047,12,295,1,14.43,0,Low
+Photonic Crystal,1D,GaAs,Optical,879.5,92231,1.539,0.291,28,183,0,42.33,0,Low
+Photonic Crystal,2D,PbO glass + dye,Optical,914.9,92911,1.631,0.259,15,197,0,37.45,0,Low
+Nanowire,Core-Shell,GaAs/AlGaAs,Optical,983.4,46137,1.484,0.902,27,349,0,59.11,0,Low
+Plasmonic,MIS,III-V,Optical,863.2,10511,0.332,1.688,12,295,1,66.66,0,High
+Plasmonic,MIM,II-VI,Optical,817.6,6342,0.26,2.648,6,280,1,87.62,1,High
+Plasmonic,Spaser,Core-Shell,Optical,797.1,10779,0.296,2.018,2,231,1,70.59,0,High
+Plasmonic,Plasmonic Crystal,Metal NP + dye/polymer,Optical,946.3,8543,0.275,2.423,4,152,1,83.61,1,High
+Polariton,Waveguide FP,ITO/Au gratings + excitons,Electrical,1077.3,42217,1.357,0.06,14,62,1,25.18,0,Low
+Photonic Crystal,1D,GaAs,Optical,989,85952,1.416,0.308,24,280,0,40.37,0,Low
+Photonic Crystal,2D,PbO glass + dye,Optical,1013,65675,1.559,0.312,9,93,0,29.02,0,Low
+Nanowire,Core-Shell,GaAs/AlGaAs,Optical,1049.2,43870,2.35,0.74,26,79,0,49.84,0,Low
+Plasmonic,MIS,III-V,Optical,852.3,7158,0.271,2.11,29,330,1,91.86,0,High
+Plasmonic,MIM,II-VI,Optical,689.6,10391,0.333,2.341,8,192,1,84.08,0,High
+Plasmonic,Spaser,Core-Shell,Optical,697.8,4200,0.185,1.18,27,362,1,62.46,1,High
+Plasmonic,Plasmonic Crystal,Metal NP + dye/polymer,Optical,650,9450,0.324,1.726,10,182,1,63.41,1,High
+Polariton,Waveguide FP,ITO/Au gratings + excitons,Electrical,973.1,21520,1.013,0.023,22,263,1,18.54,1,Low
